@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\repositories\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\repositories\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\repositories\\iusersessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\repositories\\iusersessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\jwt\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\jwt\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\entities\\configurations\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\entities\\configurations\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\repositories\\inmemoryusersessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\repositories\\inmemoryusersessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\dbconnectionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\dbconnectionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\designtimefactories\\gamedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\designtimefactories\\gamedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|c:\\users\\nellm\\onedrive\\\uBB38\uC11C\\github\\vrrpgpractice\\server\\game.auth\\auth\\auth\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37C801DA-9204-4AEE-A5DF-E9106B764876}|Auth\\Auth.csproj|solutionrelative:auth\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtUtils.cs",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Jwt\\JwtUtils.cs",
+              "RelativeDocumentMoniker": "Auth\\Jwt\\JwtUtils.cs",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Jwt\\JwtUtils.cs",
+              "RelativeToolTip": "Auth\\Jwt\\JwtUtils.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T15:15:19.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InMemoryUserSessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Repositories\\InMemoryUserSessionRepository.cs",
+              "RelativeDocumentMoniker": "Auth\\Repositories\\InMemoryUserSessionRepository.cs",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Repositories\\InMemoryUserSessionRepository.cs",
+              "RelativeToolTip": "Auth\\Repositories\\InMemoryUserSessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:43:08.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Repositories\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Auth\\Repositories\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Repositories\\UserInfo.cs",
+              "RelativeToolTip": "Auth\\Repositories\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:33:33.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Auth\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Entities\\User.cs",
+              "RelativeToolTip": "Auth\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:22:19.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Entities\\Configurations\\UserConfig.cs",
+              "RelativeDocumentMoniker": "Auth\\Entities\\Configurations\\UserConfig.cs",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Entities\\Configurations\\UserConfig.cs",
+              "RelativeToolTip": "Auth\\Entities\\Configurations\\UserConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:21:51.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Program.cs",
+              "RelativeDocumentMoniker": "Auth\\Program.cs",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Program.cs",
+              "RelativeToolTip": "Auth\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T08:50:32.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserSessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Repositories\\IUserSessionRepository.cs",
+              "RelativeDocumentMoniker": "Auth\\Repositories\\IUserSessionRepository.cs",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Repositories\\IUserSessionRepository.cs",
+              "RelativeToolTip": "Auth\\Repositories\\IUserSessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:33:06.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Auth\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Auth\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:34:16.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Auth\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Auth\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:31:43.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBConnectionSettings.cs",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\DBConnectionSettings.cs",
+              "RelativeDocumentMoniker": "Auth\\DBConnectionSettings.cs",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\DBConnectionSettings.cs",
+              "RelativeToolTip": "Auth\\DBConnectionSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:27:38.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\GameDbContext.cs",
+              "RelativeDocumentMoniker": "Auth\\GameDbContext.cs",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\GameDbContext.cs",
+              "RelativeToolTip": "Auth\\GameDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:20:42.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Auth\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Auth\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:29:14.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\DesignTimeFactories\\GameDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Auth\\DesignTimeFactories\\GameDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\DesignTimeFactories\\GameDbContextFactory.cs",
+              "RelativeToolTip": "Auth\\DesignTimeFactories\\GameDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T14:19:50.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Auth\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Auth\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-17T13:59:01.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Auth\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Auth\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:04:04.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Auth.csproj",
+              "DocumentMoniker": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Auth.csproj",
+              "RelativeDocumentMoniker": "Auth\\Auth.csproj",
+              "ToolTip": "C:\\Users\\nellm\\OneDrive\\\uBB38\uC11C\\GitHub\\VRRPGPractice\\Server\\Game.Auth\\Auth\\Auth\\Auth.csproj",
+              "RelativeToolTip": "Auth\\Auth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-17T09:03:25.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
